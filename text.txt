@@ -1,0 +1,16 @@
+android {
+      namespace 'com.example.testapp'
+      compileSdk 33
+
+      defaultConfig {
+          applicationId "com.example.testapp"
+          minSdk 24
+          targetSdk 33
+          versionCode 1
+          versionName "1.0"
+          ...
+      }
+      ...
+    }
+    ...
+    
